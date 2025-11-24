@@ -60,7 +60,6 @@ IEsporte – Movimento Inteligente é um sistema web/móvel (ou híbrido) para *
 
 As funcionalidades do sistema são descritas como **histórias de usuário**, com critérios de aceitação e regras de negócio.
 
-md_content = """# Requisitos Funcionais — Sistema IEsporte
 
 | ID    | História de Usuário | Critérios de Aceitação | Regras de Negócio | Evidências |
 |-------|---------------------|-------------------------|--------------------|------------|
